@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello, I'm CJ!
+I'm an aspiring graphics programmer with various interests such as: 
+- :movie_camera: Animation (*Blender*)
+- :video_game: Game Development (*Unity*)
+- :paintbrush: Generative Art (*Processing*)
+- :triangular_ruler: Mathematics
+- :books: Linguistics, History, Philosophy, Literature
+
+I can programme in *Java*, *C/C++*, and *Python*. I plan on digging into *OpenGL* and the *Godot Game Engine* soon.
+
+Eventually I'll make a portfolio website to showcase my projects. Feel free to contact me on Instagram (linked on profile) or email me at `satnarinecj101@gmail.com`. 
 
 <!--
 **CJSatnarine/CJSatnarine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

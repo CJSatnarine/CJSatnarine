@@ -6,9 +6,11 @@ I'm an aspiring graphics programmer with various interests such as:
 - :triangular_ruler: Mathematics
 - :books: Linguistics, History, Philosophy, Literature
 
-I can programme in *Java*, *C/C++*, and *Python*. I plan on digging into *OpenGL* and the *Godot Game Engine* soon.
+I can programme in *Java*, *C/C++*, and *Python*. 
 
-Eventually I'll make a portfolio website to showcase my projects. Feel free to contact me on Instagram (linked on profile) or email me at `satnarinecj101@gmail.com`. 
+Currently learning **OpenGL** and relearning a lot of stuff.
+
+Eventually I'll make a portfolio website to showcase my projects. Feel free to contact me on Instagram (`cjsatnarine`) or message me on Discord (`.just_cj`). 
 
 <!--
 **CJSatnarine/CJSatnarine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

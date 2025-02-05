@@ -1,7 +1,7 @@
 ## Hello, I'm CJ!
 I'm an aspiring graphics programmer with various interests such as: 
 - :movie_camera: Animation (*Blender*)
-- :video_game: Game Development (*Unity*)
+- :video_game: Game Development (*Unity*, *focussing more on Godot now*)
 - :paintbrush: Generative Art (*Processing*)
 - :triangular_ruler: Mathematics
 - :books: Linguistics, History, Philosophy, Literature

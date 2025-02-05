@@ -10,7 +10,7 @@ I can programme in *Java*, *C/C++*, and *Python*.
 
 Currently learning **OpenGL** and relearning a lot of stuff.
 
-Eventually I'll make a portfolio website to showcase my projects. Feel free to contact me on Instagram (`cjsatnarine`) or message me on Discord (`.just_cj`). 
+Eventually I'll make a portfolio website to showcase my projects. Feel free to contact me on Instagram (`cjsatnarine`), message me on Discord (`.just_cj`), or e-mail me at `satnarinecj101@gmail.com`. 
 
 <!--
 **CJSatnarine/CJSatnarine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

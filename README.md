@@ -1,16 +1,18 @@
 ## Hello, I'm CJ!
-I'm an aspiring graphics programmer with various interests such as: 
+I'm an aspiring graphics programmer with various interests in: 
 - :movie_camera: Animation (*Blender*)
 - :video_game: Game Development (*Unity*, *focussing more on Godot now*)
 - :paintbrush: Generative Art (*Processing*)
 - :triangular_ruler: Mathematics
 - :books: Linguistics, History, Philosophy, Literature
 
-I can programme in *Java*, *C/C++*, and *Python*. 
+I am trying to learn a lot of things that relate to the above interests. I am also trying to relearn a lot of things I'm rusty with. 
+Currently, I am focussing on learning **OpenGL** and shader programming, as well as relearning **Blender**. Eventually I'll make a portfolio website to showcase my projects.
 
-Currently learning **OpenGL** and relearning a lot of stuff.
-
-Eventually I'll make a portfolio website to showcase my projects. Feel free to contact me on Instagram (`cjsatnarine`), message me on Discord (`.just_cj`), or e-mail me at `satnarinecj101@gmail.com`. 
+Feel free to contact me on:
+- Instagram: `cjsatnarine`
+- Discord: `.just_cj`
+- E-mail: `satnarinecj101@gmail.com`. 
 
 <!--
 **CJSatnarine/CJSatnarine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

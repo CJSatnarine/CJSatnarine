@@ -1,5 +1,5 @@
 ## Hello, I'm CJ!
-I'm an aspiring graphics programmer with various interests in: 
+I'm an aspiring graphics programmer/technical artist with various interests in: 
 - :movie_camera: Animation (*Blender*)
 - :video_game: Game Development (*Unity*, *focussing more on Godot now*)
 - :paintbrush: Generative Art (*Processing*)
@@ -7,10 +7,9 @@ I'm an aspiring graphics programmer with various interests in:
 - :books: Linguistics, History, Philosophy, Literature
 
 I am trying to learn a lot of things that relate to the above interests. I am also trying to relearn a lot of things I'm rusty with. 
-Currently, I am focussing on learning **OpenGL** and shader programming, as well as relearning **Blender**. Eventually I'll make a portfolio website to showcase my projects.
+Currently, I am focussing on learning **OpenGL** and shader programming, as well as relearning **Blender**. My [portfolio website](https://cjsatnarine.github.io/) is slowly being updated to check that out if you're interested!
 
 Feel free to contact me on:
-- Instagram: `cjsatnarine`
 - Discord: `.just_cj`
 - E-mail: `satnarinecj101@gmail.com`. 
 

@@ -7,7 +7,7 @@ I'm an aspiring graphics programmer/technical artist with various interests in:
 - :books: Linguistics, History, Philosophy, Literature
 
 I am trying to learn a lot of things that relate to the above interests. I am also trying to relearn a lot of things I'm rusty with. 
-Currently, I am focussing on learning **OpenGL** and shader programming, as well as relearning **Blender**. My [portfolio website](https://cjsatnarine.github.io/) is slowly being updated to check that out if you're interested!
+Currently, I am focussing on learning **OpenGL** and shader programming, as well as relearning **Blender**. My [portfolio website](https://cjsatnarine.github.io/) is slowly being updated so check that out if you're interested!
 
 Feel free to contact me on:
 - Discord: `.just_cj`

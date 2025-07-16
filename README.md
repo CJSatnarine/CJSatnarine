@@ -11,7 +11,7 @@ Currently, I am focussing on learning **OpenGL** and shader programming, as well
 
 Feel free to contact me on:
 - Discord: `.just_cj`
-- E-mail: `satnarinecj101@gmail.com`. 
+- E-mail: `cjsatnarine@protonmail.com`. 
 
 <!--
 **CJSatnarine/CJSatnarine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

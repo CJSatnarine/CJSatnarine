@@ -1,6 +1,6 @@
 # I will keep my repositories on [my gitea](https://git.cjsatnarine.space) from now on. I wouldn't be updating Github.
 
-My [portfolio website](https://cjsatnarine.space) exists I guess.
+My [website](https://cjsatnarine.space) exists I guess.
 
 Feel free to contact me on:
 - Discord: `.just_cj`
